@@ -8,8 +8,7 @@ permalink: /privacy-policy/
 Effective date: 2026-10-16
 
 Inline Racer Pro ("the game") is made by the Inline Racer Pro team ("we", "us").
-This policy explains what information the game handles on iOS, Android, macOS and
-Windows. Questions: inlineracerpro@gmail.com.
+This policy explains what information the iOS and Android versions of the game handle. Questions: inlineracerpro@gmail.com.
 
 ## Summary
 
@@ -57,13 +56,6 @@ of Google's ad technology partners is shown in the consent message.
 - **Android:** reset or delete your Advertising ID in Android **Settings → Privacy → Ads**
   (wording varies by device).
 - Ads are optional: you can always wait for the free daily training attempts instead.
-
-## Camera head tracking (desktop only)
-
-The macOS and Windows versions can optionally use your webcam to follow your head
-movements for the in-game camera. Camera images are processed locally on your computer
-by a bundled helper program, are never stored, and are never sent over the internet.
-The iOS and Android versions do not use the camera or microphone.
 
 ## Children
 
