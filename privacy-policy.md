@@ -51,6 +51,10 @@ of Google's ad technology partners is shown in the consent message.
   any time in **Settings → Ad privacy options**. Some partners may rely on legitimate
   interest; you can object in the same screen. If you decline, ads that are shown are
   non-personalised or limited.
+- **United States:** if you live in a US state with a consumer privacy law (for example
+  California, Colorado or Connecticut), you can opt out of the sale or sharing of your
+  personal information for ads at any time in **Settings → Ad privacy options** by choosing
+  "Don't sell or share my data".
 - **iOS:** the game asks for permission to track only if Google's consent flow requires it.
   You can change it in iOS **Settings → Privacy & Security → Tracking**.
 - **Android:** reset or delete your Advertising ID in Android **Settings → Privacy → Ads**
